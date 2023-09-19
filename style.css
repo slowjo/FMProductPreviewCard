@@ -130,6 +130,7 @@ button:focus {
         display: grid;
         grid-template-columns: 1fr 1fr;
         max-width: 600px;
+        margin-bottom: 0;
     }
 
     .mobile-image {
